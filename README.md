@@ -22,7 +22,7 @@ This is a simple Chrome Extension built as part of the **FreeCodeCamp JavaScript
 
 1. Clone this repo:
    ```bash
-   git clone https://github.com/sharon44-ham/BlackJack-Casino.git
+   git clone https://github.com/sharon44-ham/Chrome-Extension.git
 
     Go to chrome://extensions/ in your Chrome browser.
 
